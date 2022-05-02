@@ -85,7 +85,7 @@
 }
 .bg-image {
   // background-color: $primary-orange-o500;
-  background-image: url("assets/sky.min.png");
+  background-image: url("assets/quote.png");
   background-size: cover;
   background-position: center center;
 }
